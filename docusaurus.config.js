@@ -1,6 +1,6 @@
 module.exports = {
-  title: "My Site",
-  tagline: "The tagline of my site",
+  title: "FullStack JavaScript Documentation",
+  tagline: "Documentation about the things I know of Web Development",
   url: "https://your-docusaurus-test-site.com",
   baseUrl: "/",
   favicon: "img/javascript.ico",
