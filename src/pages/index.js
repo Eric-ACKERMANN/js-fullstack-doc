@@ -9,19 +9,19 @@ import styles from "./styles.module.css";
 const features = [
   {
     title: <>JavaScript</>,
-    imageUrl: "img/undraw_docusaurus_mountain.svg",
+    imageUrl: "img/javascript_excalibur.svg",
     description: (
       <>Informations on the language, EcmaScript, and some way to use it.</>
     ),
   },
   {
     title: <>Back End</>,
-    imageUrl: "img/undraw_docusaurus_tree.svg",
+    imageUrl: "img/BackEnd.svg",
     description: <>Some BackEnd with NodeJS, Express, MongoDB, GraphQL,</>,
   },
   {
     title: <>Front End</>,
-    imageUrl: "img/undraw_docusaurus_react.svg",
+    imageUrl: "img/FrontEnd.svg",
     description: (
       <>
         Some infos on HTML/CSS language, frameworks, and librairies that I used.
@@ -65,7 +65,7 @@ function Home() {
               )}
               to={useBaseUrl("docs/")}
             >
-              Get Started
+              Get to Docs
             </Link>
           </div>
         </div>

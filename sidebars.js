@@ -1,6 +1,19 @@
 module.exports = {
   someSidebar: {
-    Docusaurus: ["doc1", "doc2", "doc3"],
-    Features: ["mdx"],
+    JavaScript: [
+      "javascript/ecmascript",
+      {
+        Docs: ["javascript/test"],
+      },
+    ],
+    React: [],
+    ReactNativ: [],
+    NodeJS: [],
+    CSS: [],
+    Gatsby: [],
+    Exemple: ["exemples/doc1", "exemples/mdx"],
   },
+
+  // React: {},
+  // NodeJs: {},
 };
